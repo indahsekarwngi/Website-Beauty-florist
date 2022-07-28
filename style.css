@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css2?family=Merienda:wght@400;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Kaushan+Script&family=Merienda:wght@400;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Kaushan+Script&family=Merienda:wght@400;700&family=Pacifico&display=swap');
+
+
+.navbar-brand{
+  font-family: 'Pacifico', cursive;
+  font-size: 20px;
+  color: white;
+}
+body{
+  background-color: #FAF4B7;
+}
+.judul-kategori{
+  font-family: kaushan script;
+  font-size: 50px;
+}
+
+.form-control{
+  width: 500px;
+}
+.img-fluid{
+  max-width: 50%;
+  height: auto;
+}
+.dropdown-item{
+  color: grey;
+}
+.card:hover{
+  border: 5px solid #876445;
+}
